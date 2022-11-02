@@ -130,6 +130,7 @@ a.dotted-link:hover {
 
 .header .profile-image {
   margin-right: 30px;
+
 }
 
 .header .profile-content .name {
@@ -807,6 +808,8 @@ body[data-theme="dark"] .text-muted {
   .header .profile-image {
     float: none !important;
     margin: 0 auto;
+    height: 50px;
+    width: 50px;
   }
   .header .profile-content {
     float: none !important;
